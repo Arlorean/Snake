@@ -7,7 +7,7 @@ Play it in [WebGL on itch.io](https://arlorean.itch.io/snake). The current high 
 
 # Credits
 
-Troika font created by Joël Carrouché - Permission given to redistribute to `https://github.com/Arlorean/Snake` only.
+[Troika](https://www.jcfonts.com/fonts/troika) font created by [Joël Carrouché](https://www.jcfonts.com/) - Permission given to redistribute to `https://github.com/Arlorean/Snake` only.
 
 Please see [freefont_EULA_1-4.txt](/Assets/Snake/Fonts/Troika/freefont_EULA_1-4.txt) for license details. 
 
